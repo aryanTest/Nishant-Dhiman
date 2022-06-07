@@ -1,3 +1,7 @@
+**This Charter file contains two kinds of Exploratory Charters:
+a) Scenario Based Exploratory Charter for specific scenarios
+b) Strategy Based Exploratory Chareter for priority based scenarios 
+**
 
 **[SCENARIO BASED EXPLORATORY TESTING REPORT FOR MONEFY MOBILE
 APPLICATION]**
@@ -1952,6 +1956,10 @@ User is able to deselect future recurring record field as expected
 
 
 
+**[STRATEGY BASED EXPLORATORY TESTING REPORT FOR MONEFY MOBILE
+APPLICATION]**
+
+
 
 | CHARTER            	| VERIFICATION OF ALL HOMEPAGE   FEATURES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|
 |--------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -2005,3 +2013,11 @@ User is able to deselect future recurring record field as expected
 | TEST FINDINGS      	| 1. Cannot test anything as it   required PRO version of the application.  	|
 | ENHANCEMENT/DEFECT 	| NA                                                                        	|
 
+
+| CHARTER            	| VERIFICATION OF ALL OVERVIEW   FEATURES FROM RIGHT SIDE                                                                                                                                                                                                                                                                                                              	|
+|--------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| PRIORITY           	| 7                                                                                                                                                                                                                                                                                                                                                                    	|
+| TESTER NAME        	| NISHANT                                                                                                                                                                                                                                                                                                                                                              	|
+| DURATION           	| 10 MINUTES                                                                                                                                                                                                                                                                                                                                                           	|
+| TEST FINDINGS      	| 1. Testing of all overview’s   general aspects of the features                                                                                                                                                                                                                                                                                                       	|
+| ENHANCEMENT/DEFECT 	| 1. Application requires a user   friendliness with respect to the usage of some features like functionalities   in Category option on the right-hand side navigation.<br>     2. Application does not have tracking in form of graphical and date   representation which is most basic need of tracking functionality which   should be included as an enhancement.  	|
