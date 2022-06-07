@@ -31,6 +31,8 @@ a\) Right-click the project and select, Run As - \> Maven test
 b\) Once the execution is completed you would find the following:
 
 > i\) Sure-fire reports - \> emailable reports as follows:
+> 
+https://github.com/aryanTest/Java-Simple-Project/blob/main/TestResults.PNG
 >
 > ii\) JSON Files generated in src/test/java as the result of some POST
 > and PUT requests used in Swagger APIs
