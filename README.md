@@ -1,3 +1,5 @@
+**Task 1 -- Added Exploratory Test Cases in Task 1 Folder**
+
 **Task 2 -- Rest Assured Test Automation**
 
 **Test cases proposed for Automation:**
