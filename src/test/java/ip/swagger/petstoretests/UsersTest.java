@@ -89,7 +89,7 @@ public class UsersTest extends ReadConfigUtility {
 	}
 
 	@Test(priority = 3)
-	public void deletePetByID() {
+	public void deleteUserByID() {
 		expect().statusCode(200).and().when().delete(baseEndpoint + "/api/v3/user/{username}", username);
 	}
 
