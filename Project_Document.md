@@ -26,6 +26,8 @@ as sometimes, localhost API's become unstable.
 
 **Run Test**
 
+Note: Make sure 8080 port is free before running Jetty Server. Otherwise, to run test, stop server and re-run it for execution. 
+
 a\) Right-click the project and select, Run As - \> Maven test
 
 b\) Once the execution is completed you would find the following:
